@@ -1,4 +1,7 @@
 /* Nav Bar CSS */
+bdy{
+    background-image: url("http://idolza.com/a/f/f/famous-peaceful-paintings-wallpaper-high-definition-abstract-cool-design-backgrounds-patterns-wallpapers-resolution_cool-wallpaper-designs_interior-wall-design-decorating-master-bed.jpg");
+}
 ul {
     list-style-type: none;
     margin: 0;
@@ -34,6 +37,7 @@ li a:hover {
     top: 200px;
     left: 50px
 }
+
 /* Header CSS */
 
 
